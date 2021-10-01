@@ -31,7 +31,7 @@ public class Main {
 			if (con != null) {
 				try {
 					con.close();
-				} catch (Exception e) {}
+				} catch (Exception e) { }
 			}
 		}
 	}
